@@ -139,6 +139,13 @@ To start the application, run:
 5. Push to the branch (`git push origin feature-branch`).
 6. Create a new Pull Request.
 
+## Postman Documentation
+
+The link to the published postman documentation is provided below:
+``` bash
+https://documenter.getpostman.com/view/25282018/2sA3JT4eUm
+```
+
 ## License
 
 This project is licensed under the MIT License.
